@@ -1,0 +1,12 @@
+#primeira_img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.limpa-link{
+    text-decoration: none;
+    color: dark; 
+}
+tr th{
+    width: 10px;
+}
